@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/c3p0-oracle-thin-extras-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

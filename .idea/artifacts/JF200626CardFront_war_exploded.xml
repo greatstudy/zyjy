@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JF200626CardFront:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JF200626CardFront_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JF200626CardFront/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JF200626CardFront" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

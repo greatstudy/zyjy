@@ -1,0 +1,58 @@
+body{
+    margin: 5% auto;
+    text-align: center;
+}
+
+span{
+    display: inline-block;
+}
+
+body div{
+    margin:20px auto auto 15%;
+    text-align: left;
+}
+
+#patientName{
+    width: 100px;
+}
+
+#sex{
+    width: 50px;
+}
+
+#age{
+    width: 50px;
+}
+#native{
+    width: 100px;
+}
+
+#idNum{
+    width: 200px;
+}
+
+#tel{
+    width: 200px;
+}
+
+#balance{
+    width: 150px;
+}
+
+#deposit{
+    width: 200px;
+}
+
+#recharge{
+    width: 150px;
+}
+
+.Btn{
+    margin-left: 20px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+/*#returnHomePage{*/
+/*    margin-left: 150px;*/
+/*}*/

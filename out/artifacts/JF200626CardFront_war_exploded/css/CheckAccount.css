@@ -1,0 +1,35 @@
+
+table {
+    min-height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-collapse: collapse;
+
+}
+
+.tableClass-td1 {
+    width: 200px;
+}
+
+.tableClass-td2 {
+    width: 150px;
+}
+
+.tableClass-td3 {
+    width: 150px;
+}
+
+.tableClass-td4 {
+    width: 150px;
+}
+
+.divForTable {
+    margin-left: 25%;
+}
+
+.pageBtn {
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 5px;
+}

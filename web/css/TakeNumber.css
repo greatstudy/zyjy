@@ -1,0 +1,79 @@
+body{
+    margin: 5% auto;
+    /*text-align: center;*/
+}
+body div{
+    margin: 20px auto auto 10%;
+
+}
+
+span{
+    display: inline-block;
+}
+
+.Btn{
+    margin-left: 20px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+#patientName{
+    width: 100px;
+}
+
+#sex{
+    width: 50px;
+}
+
+#age{
+    width: 50px;
+}
+#native{
+    width: 100px;
+}
+
+#idNum{
+    width: 200px;
+}
+
+#tel{
+    width: 200px;
+}
+
+#balance{
+    width: 150px;
+}
+
+#deposit{
+    width: 200px;
+}
+
+.scheduleTable {
+    min-height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.tableClass-td1 {
+    width: 80px;
+}
+
+.tableClass-td2 {
+    width: 180px;
+}
+
+.tableClass-td3 {
+    width: 150px;
+}
+
+.TakeNumberDiv {
+    margin-left: 35%;
+}
+
+#TakeNumberBtn {
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
