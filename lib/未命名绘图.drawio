@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T02:24:11.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.1" etag="6Z4RBrnJu0ZKPftaMpRq" type="github"><diagram id="Gc1ein5x4gMYJAhJQhhq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-16T02:28:30.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_ZJv8q4teGr69TWgWT_3" version="14.0.1" type="github">
+  <diagram id="Gc1ein5x4gMYJAhJQhhq" name="第 1 页">
+    <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kFdszZxrTxKZAm-aw4OZ-1" target="kFdszZxrTxKZAm-aw4OZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-1" value="前端请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kFdszZxrTxKZAm-aw4OZ-2" target="kFdszZxrTxKZAm-aw4OZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-2" value="过滤器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kFdszZxrTxKZAm-aw4OZ-4" target="kFdszZxrTxKZAm-aw4OZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-4" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 13.5pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;dis&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kFdszZxrTxKZAm-aw4OZ-6" target="kFdszZxrTxKZAm-aw4OZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-6" value="preHandle" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFdszZxrTxKZAm-aw4OZ-8" value="controller" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
